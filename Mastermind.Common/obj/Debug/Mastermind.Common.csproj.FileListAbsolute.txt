@@ -1,0 +1,7 @@
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Common\bin\Debug\Mastermind.Common.dll.config
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Common\bin\Debug\Mastermind.Common.dll
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Common\bin\Debug\Mastermind.Common.pdb
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Common\obj\Debug\Mastermind.Common.csprojAssemblyReference.cache
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Common\obj\Debug\Mastermind.Common.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Common\obj\Debug\Mastermind.Common.dll
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Common\obj\Debug\Mastermind.Common.pdb

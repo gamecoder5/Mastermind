@@ -1,0 +1,11 @@
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\bin\Debug\Mastermind.Service.dll.config
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\bin\Debug\Mastermind.Service.dll
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\bin\Debug\Mastermind.Service.pdb
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\obj\Debug\Mastermind.Service.csprojAssemblyReference.cache
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\obj\Debug\Mastermind.Service.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\obj\Debug\Mastermind.Service.dll
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\obj\Debug\Mastermind.Service.pdb
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\bin\Debug\Mastermind.Common.dll
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\bin\Debug\Mastermind.Common.pdb
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\bin\Debug\Mastermind.Common.dll.config
+C:\Users\Scott\source\repos\Mastermind\Mastermind.Service\obj\Debug\Mastermind.Service.csproj.CopyComplete
